@@ -1,0 +1,1 @@
+A low level keyboard hook, built in Java, designed to work in Linux or Unix, but initially developed to work with at least Ubuntu 11.
